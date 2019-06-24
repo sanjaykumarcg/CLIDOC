@@ -1,0 +1,14 @@
+Welcome in CobiGen CLI Tutorial .
+
+== Introduction : 
+This document describe about the CobiGen CLI working process and features .
+
+== How To Use :
+First of all unzip the cobigen CLI doc file then execute the cobigen.bat file .
+after that provide value in below formate .
+cobigen generate <inputFile> --out <outputRootPath>
+
+image::images/CLIArgumentImage.png[Generation path, link="images/CLIArgumentImage.png"]
+
+In this image -i is as increment optional ,You can provide option how much increment you want to generate .
+Suppose if not provide any increment then it will be generate all increment template .
